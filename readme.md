@@ -3,4 +3,5 @@
 ### Day One
 ![social networking icons](images/day-one.gif)
 
-
+### Day Two
+![loading](images/day-two.gif)
