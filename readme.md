@@ -5,3 +5,6 @@
 
 ### Day Two
 ![loading](images/day-two.gif)
+
+### Day Three
+![loading](images/day-three.gif)
