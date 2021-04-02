@@ -7,4 +7,7 @@
 ![loading](images/day-two.gif)
 
 ### Day Three
-![loading](images/day-three.gif)
+![color change in text](images/day-three.gif)
+
+### Day Four
+![animated button](images/day-four.gif)
