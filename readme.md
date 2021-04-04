@@ -14,3 +14,6 @@
 
 ### Day Five
 ![pulsating effect](images/day-five.gif)
+
+### Day Six
+![text Lightning Effect](images/day-six.gif)
