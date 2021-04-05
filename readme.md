@@ -17,3 +17,6 @@
 
 ### Day Six
 ![text Lightning Effect](images/day-six.gif)
+
+### Day Seven
+![animated preloader](images/day-seven.gif)
