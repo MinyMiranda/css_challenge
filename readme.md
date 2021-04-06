@@ -20,3 +20,6 @@
 
 ### Day Seven
 ![animated preloader](images/day-seven.gif)
+
+### Day Eight
+![heart beating](images/day-eight.gif)
