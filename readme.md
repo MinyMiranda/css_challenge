@@ -23,3 +23,6 @@
 
 ### Day Eight
 ![heart beating](images/day-eight.gif)
+
+### Day Nine
+![Newton's pendulum](images/day-nine.gif)
