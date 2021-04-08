@@ -26,3 +26,6 @@
 
 ### Day Nine
 ![Newton's pendulum](images/day-nine.gif)
+
+### Day Ten
+![alternate text animation](images/day-ten.gif)
