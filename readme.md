@@ -35,3 +35,6 @@
 
 ### Day Twelve
 ![animated button](images/day-twelve.gif)
+
+### Day Thirteen
+![loading with effect](images/day-thirteen.gif)
