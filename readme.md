@@ -38,3 +38,6 @@
 
 ### Day Thirteen
 ![loading with effect](images/day-thirteen.gif)
+
+### Day Fourteen
+![animated text background](images/day-fourteen.gif)
