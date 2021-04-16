@@ -47,3 +47,6 @@
 
 ### Day Sixteen
 ![animated button](images/day-sixteen.gif)
+
+### Day Seventeen
+![loading animated](images/day-seventeen.gif)
