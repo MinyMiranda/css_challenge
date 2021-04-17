@@ -50,3 +50,6 @@
 
 ### Day Seventeen
 ![loading animated](images/day-seventeen.gif)
+
+### Day Eighteen
+![smoky text](images/day-eighteen.gif)
