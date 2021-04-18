@@ -53,3 +53,6 @@
 
 ### Day Eighteen
 ![smoky text](images/day-eighteen.gif)
+
+### Day Nineteen
+![animated particle background](images/day-nineteen.gif)
