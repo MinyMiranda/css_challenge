@@ -63,5 +63,5 @@
 ### Day Twenty One
 ![bouncing spheres](images/day-twenty-one.gif)
 
-### Day Twenty Two
-![icons animated](images/day-twenty-two.gif)
+### Day Twenty Three
+![animated button](images/day-twenty-three.gif)
