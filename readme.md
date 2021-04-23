@@ -65,3 +65,6 @@
 
 ### Day Twenty Three
 ![animated button](images/day-twenty-three.gif)
+
+### Day Twenty Four
+![animated button](images/day-twenty-four.gif)
