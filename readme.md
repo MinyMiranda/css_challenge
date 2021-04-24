@@ -67,4 +67,7 @@
 ![animated button](images/day-twenty-three.gif)
 
 ### Day Twenty Four
-![animated button](images/day-twenty-four.gif)
+![animated preloader](images/day-twenty-four.gif)
+
+### Day Twenty Five
+![animated checkbox](images/day-twenty-five.gif)
