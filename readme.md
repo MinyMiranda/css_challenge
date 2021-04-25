@@ -74,3 +74,6 @@
 
 ### Day Twenty Six
 ![animated loader](images/day-twenty-six.gif)
+
+### Day Twenty Seven
+![animated loader](images/day-twenty-seven.gif)
