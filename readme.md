@@ -77,3 +77,6 @@
 
 ### Day Twenty Seven
 ![animated loader](images/day-twenty-seven.gif)
+
+### Day Twenty Eight
+![background color change](images/day-twenty-eight.gif)
