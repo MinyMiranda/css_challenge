@@ -80,3 +80,6 @@
 
 ### Day Twenty Eight
 ![background color change](images/day-twenty-eight.gif)
+
+### Day Twenty Nine
+![responsive navigation bar](images/day-twenty-nine.gif)
