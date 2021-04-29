@@ -83,3 +83,6 @@
 
 ### Day Twenty Nine
 ![responsive navigation bar](images/day-twenty-nine.gif)
+
+### Day Thirty
+![fireworks](images/day-thirty.gif)
